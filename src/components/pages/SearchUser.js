@@ -48,8 +48,6 @@ function SearchUser() {
 
   return (
     <div>
-        <h2>Search User</h2>
-
         <TextField 
         fullWidth 
         label="Search News by Title" 
